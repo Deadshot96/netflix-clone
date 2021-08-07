@@ -12,7 +12,7 @@ function Row(props) {
     async function fetchData(url) {
       try {
         const response = await instance.get(url);
-        console.log(response);
+        // console.log(response);
         setMovies(response.data.results);
       } catch (error) {
         console.log(error);
