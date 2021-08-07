@@ -1,5 +1,5 @@
 * {
-  background-color: darkslategrey;
+  /* background-color: darkslategrey; */
 }
 
 .row__posters {
@@ -19,6 +19,7 @@
   max-height: 100px;
   transition: transform 450ms;
   margin-right: 12px;
+  cursor: pointer;
 }
 
 .largeRow__poster {
