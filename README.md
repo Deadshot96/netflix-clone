@@ -1,8 +1,8 @@
 # Netflix Clone
 
 ## Dependencies
-** React **
-** axios **
-** bootstrap **
-** TMDB API key **
+* React
+* axios 
+* bootstrap
+* TMDB API key
 
